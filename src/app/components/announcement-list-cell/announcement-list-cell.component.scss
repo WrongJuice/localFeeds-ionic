@@ -9,10 +9,9 @@
     .announcement-top {
       display: flex;
       justify-content: space-between;
-      background-color: #28ba62;
       padding: 4%;
         .title {
-          font-weight: bold;
+          color: #28ba62;
         }
     }
 
@@ -44,18 +43,23 @@ ion-text {
   align-items: center;
   margin: 4%;
 
-  ion-button {
-    --background: #28ba62;
-    --color: #383a3e;
-  }
+  .productor {
 
+    display: flex;
+    align-items: center;
+
+    ion-img {
+
+      height: 20px;
+      width: 20px;
+      margin-right: 8px;
+    }
+  }
 }
 
 hr {
-  height: 2px;
-  color: #383a3e;
-  background-color: #383a3e;
-  margin: 0;
+  height: 1px;
+  background-color: grey;
 }
 
 ion-icon {
