@@ -1,3 +1,8 @@
+# Contexte
+
+- Projet universitaire réalisé en environ 1 journée avec la participation de 4 personnes en tout
+- Application permettant au consommateurs locaux de trouver facilement des fournisseurs près de chez eux
+
 # Gestion du git
 
 - Branche `master` : Application utilisable par le client
